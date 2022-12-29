@@ -12,7 +12,7 @@ You can follow or contact me through given links below :
 <details>
   <summary>Check Papers</summary>
   
-  - [Forged Image Detection using SOTA Image Classification Deep Learning Methods for Image Forensics with Error Level Analysis](https://arxiv.org/abs/2211.15196)
+  - [Forged Image Detection using SOTA Image Classification Deep Learning Methods for Image Forensics with Error Level Analysis](https://doi.org/10.1109/ICCCNT54827.2022.9984489)
   - [Residual-Concatenate Neural Network with Deep Regularization Layers for Binary Classification](https://doi.org/10.1109/ICICCS53718.2022.9788437)
   - [Optimization Effects for Word Representations with L2-Regularized Non-Parametric Model for Contrasting Epochs](https://doi.org/10.1109/INCET54531.2022.9824562)
   - [Metric Effects based on Fluctuations in values of k in Nearest Neighbor Regressor](https://doi.org/10.1007/978-981-19-6004-8_12)
